@@ -1,0 +1,39 @@
+{
+  "usuarios": [
+    {
+      "id": 2,
+      "nome": "João Silva",
+      "email": "joao@pitchau.com",
+      "senha": "123",
+      "perfil": "Colaborador"
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "categoria": "Pen Drive"
+    },
+    {
+      "id": 2,
+      "categoria": "Mouse"
+    },
+    {
+      "id": 3,
+      "categoria": "Teclado Mecânico"
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Pen Drive 64GB USB 3.2",
+      "preco": 49.9,
+      "categoria": "Pen Drive"
+    },
+    {
+      "id": 2,
+      "nome": "Mouse Gamer RGB 12000 DPI",
+      "preco": 129.9,
+      "categoria": "Mouse"
+    }
+  ]
+}
